@@ -1,0 +1,9 @@
+Sunny Kim, the lab assistant and Anya, the CS professor advised me 
+on the idea of keeping the program repetitive using the while loop so 
+I can keep count of how many times the user used my program. 
+
+I searched on Stack OverFlow for the difference between array and arrayList. 
+
+I actively used Javadocs to search for methods and errors to use. 
+
+https://www.horoscope.com/us/index.aspx provided me the horoscopes and all the relevent information.  
